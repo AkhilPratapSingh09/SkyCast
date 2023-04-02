@@ -9,7 +9,7 @@ const Settings = () => {
   };
 
   const navigateToProject = ()=>{
-    navigate("https://github.com/AkhilPratapSingh09");
+    navigate("https://github.com/AkhilPratapSingh09/react-weather-app-master");
   }
 
   const navigateToGithub = () =>{
